@@ -1,7 +1,7 @@
 # hotel-management-system
 # 🏨 Hotel Management System
 
-This is a comprehensive **Hotel Management System** built with **Python** and **MySQL**, designed to simulate real-world hotel operations such as user authentication, room booking, and administrative management. It’s perfect for showcasing software development skills, database integration, and real-world problem-solving—tailored for the MLH Fellowship application.
+This is a comprehensive **Hotel Management System** built with **Python** and **MySQL**, designed to simulate real-world hotel operations such as user authentication, room booking, and administrative management. It’s perfect for showcasing software development skills, database integration, and real-world problem-solving.
 
 ---
 
