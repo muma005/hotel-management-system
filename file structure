@@ -1,0 +1,21 @@
+hotel-management-system/
+│
+├── src/
+│   ├── auth.py         # Authentication module
+│   ├── booking.py      # Room booking module
+│   ├── admin.py        # Admin dashboard module
+│   └── main.py         # Entry point for the application
+│
+├── db/
+│   ├── schema.sql      # Database schema file
+│   ├── db_config.py    # Database configuration
+│   └── db_helper.py    # Database helper functions
+│
+├── gui/                # Optional GUI implementation
+│   ├── tkinter_gui.py  # Tkinter-based interface
+│   └── pyqt5_gui.py    # PyQt5-based interface
+│
+├── tests/
+│   └── test_auth.py    # Unit tests for authentication
+│
+└── README.md           # Documentation
